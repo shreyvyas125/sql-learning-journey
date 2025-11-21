@@ -30,3 +30,38 @@ FROM employee_demographics;
 **I will update this repository daily as I learn new topics:
 
 SELECT & DISTINCT ✔️
+
+📘 Day 2 – SQL Learning Journey
+
+The WHERE clause is used to filter records based on a given condition.
+It comes after FROM and before any GROUP BY or ORDER BY.
+
+Basic Syntax:
+
+SELECT column1, column2
+FROM table_name
+WHERE condition;
+
+🔍 Comparison Operators
+
+= equal
+
+!= or <> not equal
+
+> greater than
+
+< less than
+
+>= greater than or equal
+
+<= less than or equal
+
+🔸 Logical Operators
+
+AND – both conditions must be true
+
+OR – at least one condition must be true
+
+NOT – condition must be false
+
+
